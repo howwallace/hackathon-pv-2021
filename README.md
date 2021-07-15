@@ -1,6 +1,6 @@
 # Bienvenue / Welcome
 
-Welcome, and thank so much for participating in the Paul-Valéry Hackathon, 23 June 2021!!
+Welcome, and thank so much for participating in the Paul Valéry Hackathon, 23 June 2021!!
 
 ## Instructions
 
